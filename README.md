@@ -15,3 +15,10 @@ while i<=a and i<=b:
     i=i+1
 
 print("The GCD of",a,"and",b,"is",ans)
+
+Ujsmdvn(#
+Wnsjm
+)$;$(;$
+Jegajk
+(
+Ejemi
