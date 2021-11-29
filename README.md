@@ -1,0 +1,1 @@
+# This-is-used-to-story-all-kinds-of-documents.
